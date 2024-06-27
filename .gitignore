@@ -3,5 +3,4 @@
 .notebook
 .DS_Store
 __pycache__
-Dockerfile
 compose.yml
